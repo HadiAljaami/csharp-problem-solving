@@ -12,14 +12,18 @@ The project is organized into multiple levels, each focusing on different aspect
 
 ---
 
-## 🧩 Level 1 – Fundamentals of Thinking and Decomposition
+🧩 Level 1 – Problem Analysis and Breakdown
+🔹 Description
 
-### 🔹 Description
+Level 1 includes 50 beginner-level problems that emphasize:
 
-**Level 1** focuses on building a strong foundation in **analytical thinking** and **problem decomposition**.
-It contains **50 beginner-level problems** that train you to break down tasks, reason logically, and implement clean, structured solutions.
+Divide and Conquer thinking – breaking complex tasks into smaller parts.
 
-This level develops the mindset of analyzing before coding — a key step for all programmers.
+Developing analytical and logical reasoning.
+
+Practicing step-by-step problem decomposition.
+
+Strengthening foundational programming skills.
 
 ---
 

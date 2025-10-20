@@ -12,18 +12,18 @@ The project is organized into multiple levels, each focusing on different aspect
 
 ---
 
-🧩 Level 1 – Problem Analysis and Breakdown
+## 🧩 Level 1 – Problem Analysis and Breakdown
 🔹 Description
 
-Level 1 includes 50 beginner-level problems that emphasize:
+* Level 1 includes 50 beginner-level problems that emphasize:
 
-Divide and Conquer thinking – breaking complex tasks into smaller parts.
+* Divide and Conquer thinking – breaking complex tasks into smaller parts.
 
-Developing analytical and logical reasoning.
+* Developing analytical and logical reasoning.
 
-Practicing step-by-step problem decomposition.
+* Practicing step-by-step problem decomposition.
 
-Strengthening foundational programming skills.
+* Strengthening foundational programming skills.
 
 ---
 
